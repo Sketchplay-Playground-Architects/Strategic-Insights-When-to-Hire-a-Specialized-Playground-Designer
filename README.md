@@ -1,4 +1,7 @@
 # Strategic-Insights-When-to-Hire-a-Specialized-Playground-Designer
+
+![Strategic Insights](https://i.imgur.com/lOFVQh6.png)
+
 Hiring a Specialized Playground Designer
 
 ## Overview
@@ -24,9 +27,5 @@ This repository is licensed under the MIT License. See [LICENSE](LICENSE) for mo
 
 ## Contributing
 
-If you would like to contribute to this repository, please fork it and submit a pull request.
-
-## Contact
-
-For more information, please visit [Sketchplay Playground Architects](https://www.sketchplay.co.uk) or contact us at info@sketchplay.co.uk.
+If y
 
